@@ -1,0 +1,1 @@
+Built my first ever API in Python using Flask and jsonify that returns true if a given number is an Armstrong Number and flase otherwise.
